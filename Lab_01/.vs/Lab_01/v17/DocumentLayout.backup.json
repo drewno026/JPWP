@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F2A7037-B479-4AA6-8CEE-60881FDA7B51}|Lab_01\\Lab_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_01\\lab_01\\flamingo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2A7037-B479-4AA6-8CEE-60881FDA7B51}|Lab_01\\Lab_01.csproj|solutionrelative:lab_01\\flamingo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A7037-B479-4AA6-8CEE-60881FDA7B51}|Lab_01\\Lab_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_01\\lab_01\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2A7037-B479-4AA6-8CEE-60881FDA7B51}|Lab_01\\Lab_01.csproj|solutionrelative:lab_01\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A7037-B479-4AA6-8CEE-60881FDA7B51}|Lab_01\\Lab_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_01\\lab_01\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2A7037-B479-4AA6-8CEE-60881FDA7B51}|Lab_01\\Lab_01.csproj|solutionrelative:lab_01\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F2A7037-B479-4AA6-8CEE-60881FDA7B51}|Lab_01\\Lab_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_01\\lab_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F2A7037-B479-4AA6-8CEE-60881FDA7B51}|Lab_01\\Lab_01.csproj|solutionrelative:lab_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Program.cs",
-              "RelativeDocumentMoniker": "Lab_01\\Program.cs",
-              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Program.cs*",
-              "RelativeToolTip": "Lab_01\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:54:43.376Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flamingo.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Flamingo.cs",
+              "RelativeDocumentMoniker": "Lab_01\\Flamingo.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Flamingo.cs",
+              "RelativeToolTip": "Lab_01\\Flamingo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:56:41.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Bird.cs",
+              "RelativeDocumentMoniker": "Lab_01\\Bird.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Bird.cs",
+              "RelativeToolTip": "Lab_01\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:56:16.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Animal.cs",
+              "RelativeDocumentMoniker": "Lab_01\\Animal.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Animal.cs",
+              "RelativeToolTip": "Lab_01\\Animal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:56:07.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_01\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_01\\Lab_01\\Program.cs",
+              "RelativeToolTip": "Lab_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:54:43.376Z"
             }
           ]
         }

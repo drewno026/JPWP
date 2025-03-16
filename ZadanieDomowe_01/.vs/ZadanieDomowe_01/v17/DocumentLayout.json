@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\zadaniedomowe_01\\zadaniedomowe_01\\zhaodynasty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|solutionrelative:zadaniedomowe_01\\zhaodynasty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\zadaniedomowe_01\\zadaniedomowe_01\\qinshihuang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|solutionrelative:zadaniedomowe_01\\qinshihuang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\zadaniedomowe_01\\zadaniedomowe_01\\qindynasty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|solutionrelative:zadaniedomowe_01\\qindynasty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\zadaniedomowe_01\\zadaniedomowe_01\\greatwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|solutionrelative:zadaniedomowe_01\\greatwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\zadaniedomowe_01\\zadaniedomowe_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|solutionrelative:zadaniedomowe_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\zadaniedomowe_01\\zadaniedomowe_01\\dynasty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BC6AAB-7C58-45AB-904E-A9B746096BF0}|ZadanieDomowe_01\\ZadanieDomowe_01.csproj|solutionrelative:zadaniedomowe_01\\dynasty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dynasty.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\Dynasty.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_01\\Dynasty.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\Dynasty.cs",
+              "RelativeToolTip": "ZadanieDomowe_01\\Dynasty.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:42:43.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QinDynasty.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\QinDynasty.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_01\\QinDynasty.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\QinDynasty.cs",
+              "RelativeToolTip": "ZadanieDomowe_01\\QinDynasty.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:05:04.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QinShiHuang.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\QinShiHuang.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_01\\QinShiHuang.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\QinShiHuang.cs",
+              "RelativeToolTip": "ZadanieDomowe_01\\QinShiHuang.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:28:53.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZhaoDynasty.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\ZhaoDynasty.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_01\\ZhaoDynasty.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\ZhaoDynasty.cs",
+              "RelativeToolTip": "ZadanieDomowe_01\\ZhaoDynasty.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:54:51.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreatWall.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\GreatWall.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_01\\GreatWall.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\GreatWall.cs",
+              "RelativeToolTip": "ZadanieDomowe_01\\GreatWall.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:17:04.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\Program.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_01\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\ZadanieDomowe_01\\ZadanieDomowe_01\\Program.cs",
+              "RelativeToolTip": "ZadanieDomowe_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:41:58.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
