@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\waste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\waste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\scientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\scientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\oxygenbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\oxygenbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\lifesupportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\lifesupportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\ivisitport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\ivisitport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\itransportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\itransportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\fueltank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\fueltank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\fuelnuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\fuelnuclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\fueldiesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\fueldiesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\fuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\foodcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\foodcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\crewman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\crewman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|c:\\users\\wikto\\onedrive\\pulpit\\jpwp\\jpwp\\lab_03\\lab_03\\testcontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49933F5-13A3-4C05-BEB9-289537372B0C}|Lab_03\\Lab_03.csproj|solutionrelative:lab_03\\testcontents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Engine.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Engine.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Engine.cs",
+              "RelativeToolTip": "Lab_03\\Engine.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA0wBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:54:27.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Submarine.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Submarine.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Submarine.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Submarine.cs",
+              "RelativeToolTip": "Lab_03\\Submarine.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwE8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:21:01.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVisitPort.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\IVisitPort.cs",
+              "RelativeDocumentMoniker": "Lab_03\\IVisitPort.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\IVisitPort.cs",
+              "RelativeToolTip": "Lab_03\\IVisitPort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:01:52.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LifeSupportSystem.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\LifeSupportSystem.cs",
+              "RelativeDocumentMoniker": "Lab_03\\LifeSupportSystem.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\LifeSupportSystem.cs",
+              "RelativeToolTip": "Lab_03\\LifeSupportSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:29:39.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scientist.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Scientist.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Scientist.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Scientist.cs",
+              "RelativeToolTip": "Lab_03\\Scientist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:47:32.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Waste.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Waste.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Waste.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Waste.cs",
+              "RelativeToolTip": "Lab_03\\Waste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:31:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Program.cs",
+              "RelativeToolTip": "Lab_03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:02:00.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Human.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Human.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Human.cs",
+              "RelativeToolTip": "Lab_03\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:01:50.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OxygenBottle.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\OxygenBottle.cs",
+              "RelativeDocumentMoniker": "Lab_03\\OxygenBottle.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\OxygenBottle.cs",
+              "RelativeToolTip": "Lab_03\\OxygenBottle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:46:03.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransportable.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\ITransportable.cs",
+              "RelativeDocumentMoniker": "Lab_03\\ITransportable.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\ITransportable.cs",
+              "RelativeToolTip": "Lab_03\\ITransportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:01:46.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Fuel.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Fuel.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Fuel.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Fuel.cs",
+              "RelativeToolTip": "Lab_03\\Fuel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:32:03.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FuelDiesel.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\FuelDiesel.cs",
+              "RelativeDocumentMoniker": "Lab_03\\FuelDiesel.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\FuelDiesel.cs",
+              "RelativeToolTip": "Lab_03\\FuelDiesel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:41:43.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FuelNuclear.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\FuelNuclear.cs",
+              "RelativeDocumentMoniker": "Lab_03\\FuelNuclear.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\FuelNuclear.cs",
+              "RelativeToolTip": "Lab_03\\FuelNuclear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:50:30.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FuelTank.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\FuelTank.cs",
+              "RelativeDocumentMoniker": "Lab_03\\FuelTank.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\FuelTank.cs",
+              "RelativeToolTip": "Lab_03\\FuelTank.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:08:41.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodContainer.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\FoodContainer.cs",
+              "RelativeDocumentMoniker": "Lab_03\\FoodContainer.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\FoodContainer.cs",
+              "RelativeToolTip": "Lab_03\\FoodContainer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:31:29.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Equipment.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Equipment.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Equipment.cs",
+              "RelativeToolTip": "Lab_03\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:01:33.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Crewman.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Crewman.cs",
+              "RelativeDocumentMoniker": "Lab_03\\Crewman.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\Crewman.cs",
+              "RelativeToolTip": "Lab_03\\Crewman.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:01:26.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestContents.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\TestContents.cs",
+              "RelativeDocumentMoniker": "Lab_03\\TestContents.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\JPWP\\JPWP\\Lab_03\\Lab_03\\TestContents.cs",
+              "RelativeToolTip": "Lab_03\\TestContents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:20:52.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
