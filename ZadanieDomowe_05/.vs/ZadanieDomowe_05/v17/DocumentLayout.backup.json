@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|c:\\users\\wikto\\onedrive\\pulpit\\agh\\programowanie\\zadaniedomowe_05\\zadaniedomowe_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|solutionrelative:zadaniedomowe_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|c:\\users\\wikto\\onedrive\\pulpit\\agh\\programowanie\\zadaniedomowe_05\\zadaniedomowe_05\\icecreamseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|solutionrelative:zadaniedomowe_05\\icecreamseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|c:\\users\\wikto\\onedrive\\pulpit\\agh\\programowanie\\zadaniedomowe_05\\zadaniedomowe_05\\icecreamfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|solutionrelative:zadaniedomowe_05\\icecreamfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|c:\\users\\wikto\\onedrive\\pulpit\\agh\\programowanie\\zadaniedomowe_05\\zadaniedomowe_05\\softserveicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|solutionrelative:zadaniedomowe_05\\softserveicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|c:\\users\\wikto\\onedrive\\pulpit\\agh\\programowanie\\zadaniedomowe_05\\zadaniedomowe_05\\creamyicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|solutionrelative:zadaniedomowe_05\\creamyicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|c:\\users\\wikto\\onedrive\\pulpit\\agh\\programowanie\\zadaniedomowe_05\\zadaniedomowe_05\\fruiticecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A376437-A6C2-40EE-9131-9627AF1570E2}|ZadanieDomowe_05\\ZadanieDomowe_05.csproj|solutionrelative:zadaniedomowe_05\\fruiticecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IceCreamFactory.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\IceCreamFactory.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_05\\IceCreamFactory.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\IceCreamFactory.cs",
+              "RelativeToolTip": "ZadanieDomowe_05\\IceCreamFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:11:19.109Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IceCreamSeller.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\IceCreamSeller.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_05\\IceCreamSeller.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\IceCreamSeller.cs",
+              "RelativeToolTip": "ZadanieDomowe_05\\IceCreamSeller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:22:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoftServeIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\SoftServeIceCream.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_05\\SoftServeIceCream.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\SoftServeIceCream.cs",
+              "RelativeToolTip": "ZadanieDomowe_05\\SoftServeIceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:31:01.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreamyIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\CreamyIceCream.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_05\\CreamyIceCream.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\CreamyIceCream.cs",
+              "RelativeToolTip": "ZadanieDomowe_05\\CreamyIceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:27:53.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FruitIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\FruitIceCream.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_05\\FruitIceCream.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\FruitIceCream.cs",
+              "RelativeToolTip": "ZadanieDomowe_05\\FruitIceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:24:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\Program.cs",
+              "RelativeDocumentMoniker": "ZadanieDomowe_05\\Program.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Pulpit\\AGH\\Programowanie\\ZadanieDomowe_05\\ZadanieDomowe_05\\Program.cs",
+              "RelativeToolTip": "ZadanieDomowe_05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:26:15.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

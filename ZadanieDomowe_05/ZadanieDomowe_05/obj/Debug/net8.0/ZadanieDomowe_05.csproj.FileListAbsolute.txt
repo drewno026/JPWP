@@ -1,0 +1,14 @@
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\bin\Debug\net8.0\ZadanieDomowe_05.exe
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\bin\Debug\net8.0\ZadanieDomowe_05.deps.json
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\bin\Debug\net8.0\ZadanieDomowe_05.runtimeconfig.json
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\bin\Debug\net8.0\ZadanieDomowe_05.dll
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\bin\Debug\net8.0\ZadanieDomowe_05.pdb
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\ZadanieDomowe_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\ZadanieDomowe_05.AssemblyInfoInputs.cache
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\ZadanieDomowe_05.AssemblyInfo.cs
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\ZadanieDomowe_05.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\ZadanieDomowe_05.dll
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\refint\ZadanieDomowe_05.dll
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\ZadanieDomowe_05.pdb
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\ZadanieDomowe_05.genruntimeconfig.cache
+C:\Users\wikto\OneDrive\Pulpit\AGH\Programowanie\ZadanieDomowe_05\ZadanieDomowe_05\obj\Debug\net8.0\ref\ZadanieDomowe_05.dll
